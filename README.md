@@ -13,5 +13,5 @@
 # Automation seleniu + Pandas
 
 <p align='center'>
-  <img = width='800px' src='video.gif'>
+  <img = width='800px' src='git.gif'>
  </p>
