@@ -1,4 +1,4 @@
-# Automação seleniu + Pandas
+# Automação selenium + Pandas
 
 **O que ele tem:**
 
@@ -12,12 +12,6 @@
 
 # Automation seleniu + Pandas
 
-**What does he has:**
-
-- Enter the website and search for currency quotes
-
-- Copies the updated quotes and adds it to an xls document
-
-- Sum up the table and show the final resale value
-
-**It is well used by companies that export or sell based on the current dollar value**
+<p align='center'>
+  <img = width='800px' src='gif.git'>
+ </p>
