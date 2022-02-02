@@ -10,7 +10,7 @@
 
 **É bem utilizado pelas empresa que fazem exportações ou vendas baseados no valor atual do Dollar**
 
-# Automation seleniu + Pandas
+# 
 
 <p align='center'>
   <img = width='800px' src='git.gif'>
